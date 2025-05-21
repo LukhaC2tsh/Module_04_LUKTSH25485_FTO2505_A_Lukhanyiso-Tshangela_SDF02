@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open Cats Portfolio.html",
+            "file": "c:\\Users\\Lukhanyiso\\Documents\\GitHub\\Module_04_LUKTSH25485_FTO2505_A_Lukhanyiso-Tshangela_SDF02\\Cats Portfolio.html\\Cats Portfolio.html"
+        }
+    ]
+}
